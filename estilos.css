@@ -1,0 +1,38 @@
+.fondo{
+	height: 560px;
+	width: 775px;
+	     background-image: url("bosque.jpg");
+	     z-index: -5; 
+	     position: absolute;
+	     top: 150px;
+	     left: 550px;
+	 }
+	 .boton{
+	 	position: absolute;
+	 	height: 85px;
+	 	width: 200px;
+	 	background-color: black;
+	 	color: white;
+	 	top: 500px;
+	 	font-size: 30px;
+
+	 }
+	 .boton2{
+	 	position: absolute;
+	 	height: 85px;
+	 	width: 200px;
+	 	background-color: black;
+	 	color: white;
+	 	top: 670px;
+	 	left: 1000px;
+	 	font-size: 30px;
+
+	 }
+	 .boton2:hover{
+	 	background-color: white;
+	 	color: black;
+	 }
+	 .boton:hover{
+	 	background-color: white;
+	 	color: black;
+	 }
